@@ -1,7 +1,7 @@
 # C#.Net Core Import/Export CSV Library
 **CSVLibraryAK** provides CSV import and export feature in C#.NET Core using **Datatable** as primary data structure. You can install this library via Nuget packages. You can use this library into your any C#.NET Core project that supports Datatable data structure. This library imports CSV file with or without header and with any number of columns into C#.NET Core Datatable structure. The import function will automatically detects the number of columns of the CSV file. Export method will export your data from C#.NET Core Datatable data structure to .csv format file.
 
-### Nuget Installation Version 1.0.0: https://www.nuget.org/packages/CSVLibraryAK/
+### Nuget Installation Version 1.0.0: https://www.nuget.org/packages/CSVLibraryAK.Core/
 
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
@@ -22,11 +22,11 @@ CSVLibraryAK.Export(exportFilePath, data);
 
 ```
 
-# Examples
+# Examples (Coming Soon)
 
-1. [Console Application .NET Core](https://bit.ly/2XYnh8g)
-2. [ASP.NET Core MVC Application](https://bit.ly/2XVaXcb)
-3. [WPF .NET Core Application](https://bit.ly/30tyG0M)
+1. Console Application .NET Core
+2. ASP.NET Core MVC Application
+3. WPF .NET Core Application
 
 <br/>
 <br/>
