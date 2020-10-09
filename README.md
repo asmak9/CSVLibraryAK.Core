@@ -3,6 +3,8 @@
 
 ### Nuget Installation Version 1.0.0: https://www.nuget.org/packages/CSVLibraryAK.Core/
 
+### .NET Framework Supported Nuget Library: https://www.nuget.org/packages/CSVLibraryAK/
+
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
 # Basic Usage
